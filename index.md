@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+KRISHI SHARMA
 
-You can use the [editor on GitHub](https://github.com/krishi995/krishi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+with 2 years of experience in sap CC & MZ worked in the development and testing of various jio projects which includes finding defects, migration and providing technical support . 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
